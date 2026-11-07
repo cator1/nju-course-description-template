@@ -1,6 +1,8 @@
 # NJU Course Description Template · 南京大学课程描述模板
 
-面向南京大学同学的 **Typst 英文课程描述模板**，适合在海外升学申请时整理课程信息。基于 [dsyislearning 的北邮模板](https://github.com/dsyislearning/typst-course-description-template) 改编，加入南大校徽、淡色水印和可填写的学制、毕业学分说明。
+面向南京大学同学的 **Typst 英文课程描述模板**，适合在海外升学申请时整理课程信息。
+基于 [dsyislearning 的北邮模板](https://github.com/dsyislearning/typst-course-description-template) 改编，加入南大校徽、淡色水印和可填写的学制、毕业学分说明。
+（虽然感觉你南没有几个人会准备欧洲申请，但...Anyway，说不定有同学需要呢）
 
 An applicant-prepared Typst template for Nanjing University students to prepare English course descriptions for university applications.
 
@@ -10,7 +12,7 @@ An applicant-prepared Typst template for Nanjing University students to prepare 
 
 [查看完整示例 PDF](main.pdf) · [下载 PDF](https://github.com/cator1/nju-course-description-template/raw/refs/heads/main/main.pdf)
 
-示例中的姓名、学号、专业、课程及成绩均为占位内容，不包含真实个人申请材料。
+
 
 ## 快速开始
 
